@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.Hmm {
+    margin-top: calc(50% - 272 / 2) 0;
+    width: 100%;
+}
+
+.Hmm h1 {
+    color: #fff;
+    text-align: center;
+}
+
+.image {
+    width: auto;
+    height: 17pc;
+    margin-left: 31.997664936990363232023721275019%;
+    margin-right: 31.997664936990363232023721275019%;
+}
